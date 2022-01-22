@@ -1,7 +1,7 @@
 <h1 align="center">I'm cixxyt</h1>
 <p align="left"> <a href="https://twitter.com/cixxonyt" target="blank"><img src="https://img.shields.io/twitter/follow/cixxonyt?logo=twitter&style=for-the-badge" alt="cixxonyt" /></a> </p>
 
-- 🔭 I’m currently working on [synco](https://github.com/cixxytt/boneworks-mod-loader)
+- 🔭 I’m currently working on [BONEWORKS Mod Handler](https://github.com/cixxytt/boneworks-mod-loader)
 
 - ⚡ Fun fact **I'm a pro skid**
 
